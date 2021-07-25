@@ -1,6 +1,8 @@
 # Detecting Credit Card Fraud
 
-Built classifier to detect fraudulent credit card transactions. To distinguish between fraudulent and non-fraudulent, 4 different Machine Learning algorithms were attempted: Logistic Regression, Decision Tree, Artificial Neural Network, Gradient Boosting.
+This repo includes a classifier that detects fraudulent credit card transactions. First, I scaled the data and did some exploratory data analysis. To distinguish between fraudulent and non-fraudulent, 4 different Machine Learning algorithms were attempted: Logistic Regression, Decision Tree, Artificial Neural Network, Gradient Boosting.
+
+The model could be useful for credit card companies.
 
 ## Required Libraries:
 
